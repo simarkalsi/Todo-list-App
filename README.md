@@ -3,8 +3,8 @@ Application Deploy link-> https://todo-list-app-beige.vercel.app/
 Restful API GitRepo-> https://github.com/simarkalsi/Todo-Rest-API
 
 API router->
-https://todo-rest-api-production.up.railway.app/getalltodocards
-https://todo-rest-api-production.up.railway.app/addtodoCards
+https://todo-rest-api-production.up.railway.app/getalltodocards &
+ https://todo-rest-api-production.up.railway.app/addtodoCards
 
 
 
